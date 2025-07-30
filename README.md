@@ -7,6 +7,6 @@ Advanced level task:
           -Jupyter Notebook
   
     Consists of:
-          -The Dataset
+          -The Datasets
           -The Code
   
